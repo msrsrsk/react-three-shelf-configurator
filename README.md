@@ -62,7 +62,7 @@ Custom Shelf
 
 | コンフィグレーター |
 | --- |
-| [![Image from Gyazo](https://i.gyazo.com/c8574a832384bb4289610801f9433082.gif)](https://gyazo.com/c8574a832384bb4289610801f9433082) |
+| [![Image from Gyazo](https://i.gyazo.com/2834d3df586022050fbe17c65a1d4378.gif)](https://gyazo.com/2834d3df586022050fbe17c65a1d4378) |
 | ボタンのクリックで、3D モデルの収納ラックの段数と素材・色を変更できるようになっています。 |
 
 <div>
