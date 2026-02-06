@@ -18,10 +18,10 @@ export default function Intro() {
                     <nav className="intro__nav">
                         <ul className="intro__menubox">
                             <li className="intro__menu">
-                                <a href="https://r3f-ecobag-configurator.netlify.app">Eco Bag</a>
+                                <a href="https://react-three-ecobag-configurator.vercel.app">Eco Bag</a>
                             </li>
                             <li className="intro__menu">
-                                <a href="https://r3f-bicycle-configurator.netlify.app">Bicycle</a>
+                                <a href="https://react-three-bicycle-configurator.vercel.app">Bicycle</a>
                             </li>
                         </ul>
                     </nav>
